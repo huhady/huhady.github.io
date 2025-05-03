@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-05-01 15:59:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I am excited to be joining Texas A&M, the Geography Department as an assistant professor in Fall 2025
