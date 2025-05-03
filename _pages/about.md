@@ -2,16 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>Affiliations</a>. School for Environment and Sustainability, University of Michigan
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>DANA 2541</p>
+    <p>440 Church Street</p>
+    <p>Ann Arbor, Michigan, USA 48109</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -26,9 +26,9 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
+I am a postdoctoral researcher at the School for Environment and Sustainability (SEAS), University of Michigan – Ann Arbor, in a joint appointment with the Cooperative Institute for Great Lakes Research (CIGLR), where I study how climate variability and extreme events shape large lake systems—especially the Great Lakes. My work integrates coastal and hydrodynamic modeling, remote sensing, and machine learning to better understand and predict environmental change.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+My research focuses on coastal processes—from shoreline change and erosion to the dynamics of waves, ice, and water levels. By combining physics-based models with data-driven tools, I aim to improve forecasting and inform climate adaptation strategies for vulnerable coastal communities.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I hold a PhD from Purdue University with dual majors in Civil and Computational Engineering and a certificate in Geospatial Information Science. Across academia, government, and applied research, I’m driven by the challenge of translating complex environmental data into actionable insights for managing freshwater and coastal systems in a changing climate.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
