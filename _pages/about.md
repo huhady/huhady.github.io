@@ -21,10 +21,10 @@ announcements:
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
   limit: 5 # leave blank to include all the news in the `_news` folder
 
-latest_posts:
-  enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
-  limit: 3 # leave blank to include all the blog posts
+# latest_posts:
+#   enabled: true
+#   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
+#   limit: 3 # leave blank to include all the blog posts
 ---
 I am a postdoctoral researcher at the School for Environment and Sustainability (SEAS), University of Michigan – Ann Arbor, in a joint appointment with the Cooperative Institute for Great Lakes Research (CIGLR), where I study how climate variability and extreme events shape large lake systems—especially the Great Lakes. My work integrates coastal and hydrodynamic modeling, remote sensing, and machine learning to better understand and predict environmental change.
 
