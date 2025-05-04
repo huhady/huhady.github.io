@@ -4,8 +4,6 @@ title: About
 permalink: /
 subtitle: <a href='https://seas.umich.edu/research/faculty/hazem-abdelhady'>Affiliations</a>. School for Environment and Sustainability, University of Michigan
 
-<img src="/assets/img/prof_pic.jpg" style="width: 100%; height: auto; display: block;">
-
 
 profile:
   align: right
