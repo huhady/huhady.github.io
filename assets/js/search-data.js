@@ -37,12 +37,7 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/people/";
           },
-        },{id: "books-the-godfather",
-          title: 'The Godfather',
-          description: "",
-          section: "Books",handler: () => {
-              window.location.href = "/books/the_godfather.html";
-            },},{id: "news-i-am-excited-to-be-joining-texas-a-amp-amp-m-the-geography-department-as-an-assistant-professor-in-fall-2025",
+        },{id: "news-i-am-excited-to-be-joining-texas-a-amp-amp-m-the-geography-department-as-an-assistant-professor-in-fall-2025",
           title: 'I am excited to be joining Texas A&amp;amp;amp;M, the Geography Department as an...',
           description: "",
           section: "News",},{id: "news-i-am-hiring-phd-students-to-start-spring-2026-or-fall-2026",
