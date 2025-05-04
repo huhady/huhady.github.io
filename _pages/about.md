@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://seas.umich.edu/research/faculty/hazem-abdelhady'>Affiliations</a>. School for Environment and Sustainability, University of Michigan
+subtitle: <a href='https://seas.umich.edu/research/faculty/hazem-abdelhady'>Affiliations</a>. Geography Department, Texas A&M University
 
 
 profile:
