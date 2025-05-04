@@ -195,6 +195,7 @@ exclude:
   - vendor
   - _projects/
   - _posts/
+  - _pages/cv.md
 
 keep_files:
   - CNAME
