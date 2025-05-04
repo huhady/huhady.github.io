@@ -25,7 +25,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 <!-- <img src="/assets/img/beachPhoto.jpeg" alt="My photo" width="300" style="margin-bottom: 20px;"> -->
-<img src="/assets/img/beachPhoto.jpeg" alt="My photo" style="width: 100%; margin-bottom: 20px;">
+<img src="/assets/img/beachPhoto.jpeg" alt="My photo" style="width: 75%; margin-bottom: 20px;">
 
 
 Hazem Abdelhady’s Lab will launch in Fall 2025 in the Geography Department at Texas A&M University.
