@@ -6,8 +6,8 @@ subtitle: <a href='https://seas.umich.edu/research/faculty/hazem-abdelhady'>Affi
 
 
 profile:
-  align: right
-  image: prof_pic.jpg
+  align: center
+  image: beachPhoto.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>DANA 2541</p>
