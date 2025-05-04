@@ -196,6 +196,7 @@ exclude:
   - _projects/
   - _posts/
   - _pages/cv.md
+  - _pages/repositories.md
 
 keep_files:
   - CNAME
