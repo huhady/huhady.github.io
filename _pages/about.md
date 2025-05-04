@@ -24,8 +24,8 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-<!-- <img src="/assets/img/beachPhoto.jpeg" alt="My photo" width="300" style="margin-bottom: 20px;"> -->
-<img src="/assets/img/beachPhoto.jpeg" alt="My photo" style="width: 75%; margin-bottom: 20px;">
+
+<img src="/assets/img/beachPhoto.jpeg" alt="My photo" style="width: 75%; display: block; margin: 0 auto 20px auto;">
 
 
 Hazem Abdelhady’s Lab will launch in Fall 2025 in the Geography Department at Texas A&M University.
