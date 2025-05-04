@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. School for Environment and Sustainability, University of Michigan
+subtitle: <a href='https://seas.umich.edu/research/faculty/hazem-abdelhady'>Affiliations</a>. School for Environment and Sustainability, University of Michigan
 
 profile:
   align: right
@@ -28,7 +28,7 @@ announcements:
 ---
 Hazem Abdelhady's lab is starting in Fall 2025 in the Geography Department at Texas A&M University.
 
-My research lab focuses on coastal processes—from shoreline change and erosion to the dynamics of waves, ice, and water levels in lakes and ocean. By combining physics-based models with data-driven tools, I aim to improve forecasting and inform resilience adaptation strategies for vulnerable coastal communities.
+My research lab focuses on coastal and nearshore processes—from shoreline change and erosion to the dynamics of waves, ice, and water levels in lakes and ocean. By combining physics-based models with data-driven tools, I aim to improve forecasting and inform resilience adaptation strategies for vulnerable coastal communities.
 
 
 
