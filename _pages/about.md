@@ -7,12 +7,9 @@ subtitle: <a href='https://seas.umich.edu/research/faculty/hazem-abdelhady'>Affi
 
 profile:
   align: center
-  image: beachPhoto.jpeg
+  image: 
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>DANA 2541</p>
-    <p>440 Church Street</p>
-    <p>Ann Arbor, Michigan, USA 48109</p>
+  more_info:
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,7 +24,9 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-<img src="/assets/img/beachPhoto.jpeg" alt="My photo" width="300" style="margin-bottom: 20px;">
+<!-- <img src="/assets/img/beachPhoto.jpeg" alt="My photo" width="300" style="margin-bottom: 20px;"> -->
+<img src="/assets/img/beachPhoto.jpeg" alt="My photo" style="width: 100%; margin-bottom: 20px;">
+
 
 Hazem Abdelhady's lab is starting in Fall 2025 in the Geography Department at Texas A&M University.
 
