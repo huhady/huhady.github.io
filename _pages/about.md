@@ -26,6 +26,7 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
+Hazem Abdelhady's lab is starting in Fall 2025 in the Geography Department at Texas A&M University.
 
 My research lab focuses on coastal processes—from shoreline change and erosion to the dynamics of waves, ice, and water levels in lakes and ocean. By combining physics-based models with data-driven tools, I aim to improve forecasting and inform resilience adaptation strategies for vulnerable coastal communities.
 
