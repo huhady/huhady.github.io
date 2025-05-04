@@ -66,8 +66,8 @@ ninja.data = [{
             },},{id: "news-i-am-excited-to-be-joining-texas-a-amp-amp-m-the-geography-department-as-an-assistant-professor-in-fall-2025",
           title: 'I am excited to be joining Texas A&amp;amp;amp;M, the Geography Department as an...',
           description: "",
-          section: "News",},{id: "news-phd-students-spring-2026-fall2026",
-          title: 'PhD Students Spring 2026/Fall2026',
+          section: "News",},{id: "news-i-am-hiring-phd-students-to-start-spring-2026-or-fall2026",
+          title: 'I am hiring PhD Students to start Spring 2026 or Fall2026',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
