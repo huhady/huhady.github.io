@@ -11,7 +11,7 @@ related_posts: false
 
 I am actively recruiting Ph.D. students to join my research group in the **Geography Department at Texas A&M University**, starting in **Fall 2025**. The lab focuses on **coastal and nearshore processes**—including coastal change, wave dynamics, and the impacts of natural hazards—through a combination of **physics-based modeling** and **data-driven (AI/ML) approaches**. We aim to improve modeling and understanding of coastal hazards and to develop resilience strategies for vulnerable coastal communities.
 
-If you are passionate about using computational tools to address pressing environmental and water resources challenges, I encourage you to apply.
+If you are passionate about using computational tools to address pressing environmental and water resources challenges, I encourage you to apply using by filling out **[this form](https://docs.google.com/forms/d/e/1FAIpQLSeLNV-ouSULUIgJgmnMzEuo_0_z60VN76TfMMAdSM_Tljpk_Q/viewform?usp=header)**.
 
 ### Prospective Ph.D. Students
 
