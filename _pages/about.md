@@ -34,5 +34,6 @@ The lab investigates coastal and nearshore processes in both lake and ocean envi
 
 The lab combines observational data with advanced numerical and AI-driven approaches to improve environmental forecasting and support resilience and adaptation planning for vulnerable coastal communities. Our work bridges disciplines to address urgent challenges at the intersection of climate, water, and coasts.
 
+If you're interested in joing the lab, please check the following **[announcement]https://huhady.github.io/news/announcement_2.html)**
 
 
