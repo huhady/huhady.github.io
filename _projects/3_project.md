@@ -16,3 +16,8 @@ This project applies advanced machine learning techniques to reconstruct and for
 </div>
 
 
+<img src="/assets/img/Wave_model_arch.png" alt="My photo" style="width: 70%; display: block; margin: 0 auto 20px auto;" class="rounded mx-auto d-block">
+
+<div class="caption text-center">
+  Wave model architecture.
+</div>
