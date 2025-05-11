@@ -47,7 +47,7 @@ ninja.data = [{
               window.location.href = "/news/announcement_2.html";
             },},{id: "projects-shoreline-changes-quantifcation-using-satellite-images",
           title: 'Shoreline changes quantifcation using satellite images',
-          description: "Purdue University",
+          description: "Started in 2021",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
