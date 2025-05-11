@@ -16,7 +16,7 @@ This project focuses on understanding the response of the Great Lakes’ ice cov
 </div>
 
 
-<img src="/assets/img/TempExtremesFramwork.png" alt="My photo" style="width: 90%; display: block; margin: 0 auto 20px auto;" class="rounded mx-auto d-block">
+<img src="/assets/img/TempExtremesFramwork.png" alt="My photo" style="width: 75%; display: block; margin: 0 auto 20px auto;" class="rounded mx-auto d-block">
 
 <div class="caption text-center">
   Lake surface temperature detrending and extremes calculation framework. (a) Schematic showing the effect of data detrending. b, c, d, and e show the steps used to obtain the distribution of the detrended lake surface temperature (DLST). (b) modeled lake surface temperature (LST) for all lakes. (c) Example lake-wide average surface temperature for Lake Michigan with the detected nonlinear trend. (d) The resulting DLST. (e) The change in the DLST distribution with time.
