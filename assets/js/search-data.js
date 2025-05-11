@@ -45,9 +45,9 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
+            },},{id: "projects-shoreline-changes-quantifcation-using-satellite-images",
+          title: 'Shoreline Changes Quantifcation Using Satellite Images',
+          description: "Purdue University",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
             },},{id: "projects-project-2",
