@@ -2,13 +2,13 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Welcome to the ACIS Lab # the website title (if blank, full name will be used instead)
+title: Welcome to the Aggie CIS Lab # the website title (if blank, full name will be used instead)
 first_name: Hazem
 middle_name: U.
 last_name: Abdelhady
 contact_note:
 description: Aggie Coastal Intelligence & Sustainability Lab
-footer_text: Aggie Coastal Intelligence & Sustainability Lab (ACIS)
+footer_text: Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)
 keywords: Coastal process, Deep learning, Hydrodynmaic # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: wave.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
