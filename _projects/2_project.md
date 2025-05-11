@@ -3,7 +3,7 @@ layout: page
 title: The Great Lakes shoreline changes model (GLSM)
 description: Started in 2021
 img: assets/img/GLSM_formula.png
-importance: 3
+importance: 4
 category: work
 related_publications: abdelhady2023reduced, abdelhady2023modeling
 ---

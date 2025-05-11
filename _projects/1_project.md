@@ -3,7 +3,7 @@ layout: page
 title: Shoreline changes quantifcation using satellite images
 description: Started in 2021
 img: assets/img/ShorelineDetectionFramework.png
-importance: 2
+importance: 3
 category: work
 related_publications: abdelhady2022simple, abdelhady2025shoreline
 ---

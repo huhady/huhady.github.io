@@ -3,7 +3,7 @@ layout: page
 title: Great Lakes hydroclimate extremes variability
 description: Started in 2024
 img: /assets/img/surface_temp_animation_1941_2021.gif
-importance: 4
+importance: 2
 category:
 ---
 
