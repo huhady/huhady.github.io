@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: <a href='https://seas.umich.edu/research/faculty/hazem-abdelhady'>Affiliations</a>. Geography Department, Texas A&M University
+subtitle: Directed by Dr. Hazem Abdelhady, Geography Department, Texas A&M University
 
 
 profile:
@@ -28,9 +28,7 @@ announcements:
 <img src="/assets/img/beachPhoto.jpeg" alt="My photo" style="width: 100%; display: block; margin: 0 auto 20px auto;">
 
 
-# Welcome to the ACIS Lab  
-**Aggie Coastal Intelligence & Sustainability Lab**  
-*Directed by Dr. Hazem Abdelhady*
+
 
 Launching in **Fall 2025** in the **Geography Department at Texas A&M University**, the **ACIS Lab** investigates coastal and nearshore processes in both lake and ocean environments. Our work focuses on **shoreline change**, **erosion**, **waves**, **ice**, and **water level dynamics** under the influence of climate variability and extreme events.
 
