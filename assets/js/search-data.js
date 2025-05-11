@@ -50,9 +50,9 @@ ninja.data = [{
           description: "Started in 2021",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project.html";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
+            },},{id: "projects-the-great-lakes-shoreline-changes-model-glsm",
+          title: 'The Great Lakes shoreline changes model (GLSM)',
+          description: "Started in 2021",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
             },},{id: "projects-project-3-with-very-long-name",
