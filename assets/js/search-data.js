@@ -18,7 +18,7 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A growing collection of the lab&#39;s cool projects.",
+          description: "A growing collection of the lab&#39;s cool projects!!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -55,9 +55,9 @@ ninja.data = [{
           description: "Started in 2021",
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_project.html";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
+            },},{id: "projects-hydroclimate-modeling-using-ai-ml",
+          title: 'Hydroclimate modeling using AI/ML',
+          description: "Started in 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
             },},{id: "projects-project-4",
