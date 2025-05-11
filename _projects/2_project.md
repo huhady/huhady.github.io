@@ -12,7 +12,7 @@ related_publications: abdelhady2023reduced, abdelhady2023modeling
 This project introduces a novel modeling framework designed to capture shoreline change in regions experiencing large water level fluctuations, such as the Great Lakes. Central to the work is the concept of water level disequilibrium, which describes the geomorphic response of shorelines to nonlinear water leve change. Building on this concept, the Great Lakes Shoreline Model (GLSM) was developed to simulate and predict shoreline evolution under large water level change conditions similar to the one experienced by the Great Lakes {% cite abdelhady2023reduced %}. The GLSM integrates waves and water level parameters to provide accurate, site-specific forecasts of shoreline change, with successful applications demonstrated along the Lake Michigan coast {% cite abdelhady2023modeling %}.
 
 
-<img src="/assets/img/WL_GLVSAtlantic.png" alt="My photo" style="width: 100%; display: block; margin: 0 auto 20px auto;">
+<img src="/assets/img/WL_GLVSAtlantic.png" alt="My photo" style="width: 70%; display: block; margin: 0 auto 20px auto;" class="rounded mx-auto d-block">
 <div class="caption text-center">
   Difference between water levels in the Atlantic Ocean and Lake Michigan on different time scales. (a) is monthly water level fluctuations, while (b) is hourly water levels. Data extracted from [NOAA Gages](https://tidesandcurrents.noaa.gov/waterlevels) 9087044 and 8518750 for Lake Michigan and the Atlantic Ocean respectively.
 </div>
