@@ -35,5 +35,3 @@ The model was used to quantify shoreline recession at eleven beaches around Lake
 </div>
 
 
-
-{% bibliography --cited %}
