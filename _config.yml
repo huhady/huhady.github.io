@@ -188,7 +188,6 @@ exclude:
   - README.md
   - readme_preview/
   - vendor
-  - _projects/
   - _posts/
   - _pages/cv.md
   - _pages/repositories.md
