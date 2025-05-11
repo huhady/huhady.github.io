@@ -19,5 +19,3 @@ This project focuses on developing an end-to-end, fully automated framework for 
     Shoreline detection and quantification simplified framework.
 </div>
 
-
-{% endraw %} -->
