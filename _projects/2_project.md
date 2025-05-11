@@ -9,63 +9,26 @@ related_publications: abdelhady2023reduced, abdelhady2023modeling
 ---
 
 
-This project introduces a novel modeling framework designed to capture shoreline change in regions experiencing large water level fluctuations, such as the Great Lakes. Central to the work is the concept of water level disequilibrium, which describes the geomorphic response of shorelines to nonlinear water leve change. Building on this concept, the Great Lakes Shoreline Model (GLSM) was developed to simulate and predict shoreline evolution under large water level change conditions similar to the one experienced by the Great Lakes. The GLSM integrates waves and water level parameters to provide accurate, site-specific forecasts of shoreline change, with successful applications demonstrated along the Lake Michigan coast.
+This project introduces a novel modeling framework designed to capture shoreline change in regions experiencing large water level fluctuations, such as the Great Lakes. Central to the work is the concept of water level disequilibrium, which describes the geomorphic response of shorelines to nonlinear water leve change. Building on this concept, the Great Lakes Shoreline Model (GLSM) was developed to simulate and predict shoreline evolution under large water level change conditions similar to the one experienced by the Great Lakes {% cite abdelhady2023reduced %}. The GLSM integrates waves and water level parameters to provide accurate, site-specific forecasts of shoreline change, with successful applications demonstrated along the Lake Michigan coast {% cite abdelhady2023modeling %}.
+
+
+<img src="/assets/img/WL_GLVSAtlantic.png" alt="My photo" style="width: 100%; display: block; margin: 0 auto 20px auto;">
+<div class="caption text-center">
+  Difference between water levels in the Atlantic Ocean and Lake Michigan on different time scales. (a) is monthly water level fluctuations, while (b) is hourly water levels. Data extracted from [NOAA Gages](https://tidesandcurrents.noaa.gov/waterlevels) 9087044 and 8518750 for Lake Michigan and the Atlantic Ocean respectively.
+</div>
+
+
+
+The model was model was compared to the ShoreFor which is used for modeling ocean shoreline. 
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Reach3_Hind.svg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/Reach3_Hind_long.svg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Model application results for West Park Beach. On the left, the period 2009–2017 is used for model calibration, and the period 2018–2019 is used for model validation and assessment. Panel (a) shows the results of the GLSM and the passive flooding, while panel (b) shows the results of the ShoreFor model. On the right Comparison between calibrated GLSM, Shorefor, and Passive Flooding Models for the longer time series from 1980 to 2020.
 </div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
-
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-
-```html
-<div class="row justify-content-sm-center">
-  <div class="col-sm-8 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-  <div class="col-sm-4 mt-3 mt-md-0">
-    {% include figure.liquid path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-```
-
-{% endraw %}
