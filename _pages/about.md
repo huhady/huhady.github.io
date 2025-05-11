@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Aggie Coastal Intelligence & Sustainability Lab
+subtitle: Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)
 
 
 profile:
