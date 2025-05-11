@@ -9,18 +9,7 @@ related_publications: abdelhady2023reduced, abdelhady2023modeling
 ---
 
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
-
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
-
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+This project introduces a novel modeling framework designed to capture shoreline change in regions experiencing large water level fluctuations, such as the Great Lakes. Central to the work is the concept of water level disequilibrium, which describes the geomorphic response of shorelines to nonlinear water leve change. Building on this concept, the Great Lakes Shoreline Model (GLSM) was developed to simulate and predict shoreline evolution under large water level change conditions similar to the one experienced by the Great Lakes. The GLSM integrates waves and water level parameters to provide accurate, site-specific forecasts of shoreline change, with successful applications demonstrated along the Lake Michigan coast.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
