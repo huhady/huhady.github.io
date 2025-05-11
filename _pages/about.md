@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Directed by Dr. Hazem Abdelhady, Geography Department, Texas A&M University
+subtitle: **Aggie Coastal Intelligence & Sustainability Lab**
 
 
 profile:
@@ -24,6 +24,8 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
+
+Directed by Dr. Hazem Abdelhady, Geography Department, Texas A&M University
 
 <img src="/assets/img/beachPhoto.jpeg" alt="My photo" style="width: 100%; display: block; margin: 0 auto 20px auto;">
 
