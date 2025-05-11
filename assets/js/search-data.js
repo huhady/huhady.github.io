@@ -60,9 +60,9 @@ ninja.data = [{
           description: "Started in 2023",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_project.html";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
+            },},{id: "projects-great-lakes-hydroclimate-extremes-variability",
+          title: 'Great Lakes hydroclimate extremes variability',
+          description: "Started in 2024",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_project.html";
             },},{
