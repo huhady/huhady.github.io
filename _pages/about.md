@@ -30,11 +30,11 @@ announcements:
 
 
 
-Launching in **Fall 2025** in the **Geography Department at Texas A&M University**, the **ACIS Lab** investigates coastal and nearshore processes in both lake and ocean environments. Our work focuses on **shoreline change**, **erosion**, **waves**, **ice**, and **water level dynamics** under the influence of climate variability and extreme events.
+Launching in **Fall 2025** in the **Geography Department at Texas A&M University**, the **Aggie CIS Lab** investigates coastal and nearshore processes in both lake and ocean environments. Our work focuses on **shoreline change**, **erosion**, **waves**, **ice**, and **water level dynamics** under the influence of climate variability and extreme events.
 
 Led by **Dr. Hazem Abdelhady**, the lab integrates **physics-based hydrodynamic modeling**, **remote sensing**, and **machine learning** to better understand how coastal systems evolve and to develop tools that support **resilience and adaptation planning** for vulnerable communities.
 
-Combining observational data with advanced numerical and AI-driven approaches, the ACIS Lab bridges disciplines to address urgent environmental challenges at the intersection of **climate, water, and coasts**.
+Combining observational data with advanced numerical and AI-driven approaches, the Aggie CIS Lab bridges disciplines to address urgent environmental challenges at the intersection of **climate, water, and coasts**.
 
 If you're interested in joining the lab, please check the following **[announcement](https://huhady.github.io/news/announcement_2.html)**.
 
