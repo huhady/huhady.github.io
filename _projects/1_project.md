@@ -10,13 +10,13 @@ related_publications: abdelhady2022simple, abdelhady2025shoreline
 
 This project focuses on developing an end-to-end, fully automated framework for detecting and analyzing shoreline change from multispectal satellite imageries. By leveraging image processing techniques, the approach eliminates the need for manually drawn transects, enabling a scalable and objective method for quantifying shoreline change. The framework has been applied to multiple beaches along Lake Michigan to assess the impacts of recent, record-breaking water level rises. In addition to quantifying shoreline retreat, the project investigates the spatial variability in erosion patterns and explores potential causative factors such as geomorphology, exposure, and wave energy dynamics {% cite abdelhady2022simple %}.
 
-<div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0 text-center">
-        {% include figure.liquid loading="eager" path="assets/img/ShorelineDetectionFramework.png" title="Shoreline changes framework" class="img-fluid rounded z-depth-1" %}
-    </div>
+<<div class="row">
+  <div class="col-sm-8 mt-3 mt-md-0 d-flex justify-content-center">
+    {% include figure.liquid loading="eager" path="assets/img/ShorelineDetectionFramework.png" title="Shoreline changes framework" class="img-fluid rounded z-depth-1" %}
+  </div>
 </div>
 <div class="caption text-center">
-    Shoreline detection and quantification simplified framework.
+  Shoreline detection and quantification simplified framework.
 </div>
 
 
