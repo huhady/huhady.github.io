@@ -1,5 +1,4 @@
-**Hazem U. Abdelhady**: I am a currently a postdoctoral researcher at the School for Environment and Sustainability (SEAS), University of Michigan – Ann Arbor, in a joint appointment with the Cooperative Institute for Great Lakes Research (CIGLR), where I study how climate variability and extreme events shape large lake systems—especially the Great Lakes. My work integrates coastal and hydrodynamic modeling, remote sensing, and machine learning to better understand and predict environmental change.
+**Hazem U. Abdelhady** will be joining the **Geography Department at Texas A&M University** as an **Assistant Professor** in Fall 2025.
+He is currently a **Postdoctoral Researcher** at the **School for Environment and Sustainability (SEAS)** at the **University of Michigan – Ann Arbor**, jointly appointed with the **Cooperative Institute for Great Lakes Research (CIGLR)**. His work integrates **coastal and hydrodynamic modeling**, **remote sensing**, and **machine learning** to improve understanding and prediction of environmental change in freshwater and coastal systems.
 
-I hold a PhD from Purdue University with dual majors in Civil and Computational Engineering and a certificate in Geospatial Information Science. Across academia, government, and applied research, I’m driven by the challenge of translating complex environmental data into actionable insights for managing freshwater and coastal systems in a changing climate.
-
-Starting Fall 2025, I will join the Geography Department at Texas A&M as an assitant professor.
+Dr. Abdelhady earned his Ph.D. from Purdue University, where he pursued dual majors in Civil Engineering and Computational Engineering along with a post graduate certificate in Geospatial Information Science.
