@@ -33,3 +33,10 @@ The model was used to quantify shoreline recession at eleven beaches around Lake
 <div class="caption">
     On the left, shoreline changes detected form the satellite images between 2013 and 2020. On the right is shoreline recessions, as well as the relative amounts attributable to passive flooding and shoreline erosion.
 </div>
+
+
+## related publications
+<div class="publications">
+  {% bibliography -f papers -q @*[key=abdelhady2022simple]* %}
+  {% bibliography -f papers -q @*[key=abdelhady2025shoreline]* %}
+</div>
