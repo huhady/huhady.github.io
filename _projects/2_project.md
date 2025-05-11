@@ -14,7 +14,7 @@ This project introduces a novel modeling framework designed to capture shoreline
 
 <img src="/assets/img/WL_GLVSAtlantic.png" alt="My photo" style="width: 70%; display: block; margin: 0 auto 20px auto;" class="rounded mx-auto d-block">
 <div class="caption text-center">
-  Difference between water levels in the Atlantic Ocean and Lake Michigan on different time scales. (a) is monthly water level fluctuations, while (b) is hourly water levels. Data extracted from <strong><a href="https://tidesandcurrents.noaa.gov/waterlevels" target="_blank" rel="noopener">NOAA Gages</a></strong> 9087044 and 8518750 for Lake Michigan and the Atlantic Ocean respectively.
+  Difference between water levels in the Atlantic Ocean and Lake Michigan on different time scales. (a) is monthly water level fluctuations, while (b) is hourly water levels. Data extracted from <strong><a href="https://tidesandcurrents.noaa.gov" target="_blank" rel="noopener">NOAA Gages</a></strong> 9087044 and 8518750 for Lake Michigan and the Atlantic Ocean respectively.
 </div>
 
 The model was model was compared to the ShoreFor which is used for modeling ocean shoreline. 
