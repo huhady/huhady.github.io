@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Shoreline changes quantifcation using satellite images
-description: Purdue University
+description: Started in 2021
 img: assets/img/ShorelineDetectionFramework.png
 importance: 1
 category: work
