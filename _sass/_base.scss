@@ -227,9 +227,10 @@ ul.task-list input[type="checkbox"] {
   }
 }
 
-.img-profile-small {
+.profile.float-left img.img-profile-small,
+.profile.float-right img.img-profile-small {
+  width: auto !important;
   max-width: 150px !important;
-  height: auto !important;
 }
 .post-description {
   margin-bottom: 2rem;
