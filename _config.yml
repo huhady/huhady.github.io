@@ -11,7 +11,7 @@ description: Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)
 footer_text: Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)
 keywords: Coastal process, Deep learning, Hydrodynmaic # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: newlogo.png # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: wave.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://huhady.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root

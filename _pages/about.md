@@ -7,7 +7,7 @@ subtitle: Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)
 
 profile:
   align: center
-  image: 
+  image: newlogo.png
   image_circular: false # crops the image to make it circular
   more_info:
 
@@ -26,9 +26,6 @@ announcements:
 ---
 
 Directed by Dr. Hazem Abdelhady, Geography Department, Texas A&M University
-
-<img src="/assets/img/beachPhoto.jpeg" alt="My photo" style="width: 100%; display: block; margin: 0 auto 20px auto;">
-
 
 
 
