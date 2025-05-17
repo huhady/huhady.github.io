@@ -45,7 +45,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2.html";
-            },},{id: "projects-shoreline-changes-quantifcation-using-satellite-images",
+            },},{id: "news-our-paper-about-the-amplification-of-extreme-temperatures-in-great-lakes-got-published-in-nature-s-communications-earth-and-environment-check-it-here",
+          title: 'Our paper about the amplification of extreme temperatures in Great Lakes got published...',
+          description: "",
+          section: "News",},{id: "projects-shoreline-changes-quantifcation-using-satellite-images",
           title: 'Shoreline changes quantifcation using satellite images',
           description: "Started in 2021",
           section: "Projects",handler: () => {
