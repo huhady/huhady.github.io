@@ -228,8 +228,8 @@ ul.task-list input[type="checkbox"] {
 }
 
 .img-profile-small {
-  max-width: 150px;  // Or any size you prefer
-  height: auto;
+  max-width: 150px !important;
+  height: auto !important;
 }
 .post-description {
   margin-bottom: 2rem;
