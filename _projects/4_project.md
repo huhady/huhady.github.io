@@ -5,9 +5,10 @@ description: Started in 2024
 img: /assets/img/TempExtremesFramwork.png
 importance: 2
 category:
+related_publications: AbdelhadyManome2025
 ---
 
-This project focuses on understanding the response of the Great Lakes’ ice cover and thermal structure to past and future climate variability using a physics-based modeling approach. A three-dimensional hydrodynamic-ice model was developed using the Finite Volume Community Ocean Model (FVCOM), configured specifically for the Great Lakes system. The model is forced with the ERA5 reanalysis dataset and is used to simulate lake dynamics at high spatial and temporal resolution. By reconstructing historical conditions, the model enables detailed analysis of extreme events such as lake heatwaves, cold-spells, and ice cover anomalies. This work provides a physically grounded framework for examining how climate change has shaped, and is likely to continue shaping, the thermal and cryospheric behavior of large lake systems.
+This project focuses on understanding the response of the Great Lakes’ ice cover and thermal structure to past and future climate variability using a physics-based modeling approach. A three-dimensional hydrodynamic-ice model was developed using the Finite Volume Community Ocean Model (FVCOM), configured specifically for the Great Lakes system. The model is forced with the ERA5 reanalysis dataset and is used to simulate lake dynamics at high spatial and temporal resolution. By reconstructing historical conditions, the model enables detailed analysis of extreme events such as lake heatwaves, cold-spells, and ice cover anomalies {% cite AbdelhadyManome2025 %}. This work provides a physically grounded framework for examining how climate change has shaped, and is likely to continue shaping, the thermal and cryospheric behavior of large lake systems.
 
 <img src="/assets/img/surface_temp_animation_1941_2021.gif" alt="My photo" style="width: 70%; display: block; margin: 0 auto 20px auto;" class="rounded mx-auto d-block">
 
