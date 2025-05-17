@@ -12,7 +12,7 @@ profiles:
   - align: right
     image: prof_pic.jpg
     content: about_hazem.md
-    image_circular: false # crops the image to make it circular
+    image_circular: true # crops the image to make it circular
     more_info: >
         <p>DANA 2541</p>
         <p>440 Church Street</p>
