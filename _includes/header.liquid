@@ -5,7 +5,7 @@
       {% if page.permalink != '/' %}
         <a class="navbar-brand title font-weight-lighter" href="{{ site.baseurl }}/">
           {% if site.icon %}
-            <img src="{{ site.icon | relative_url }}" alt="Site Icon" style="height: 1.2em; margin-right: 0.4em; vertical-align: middle;">
+            <img src="{{ site.icon | prepend: '/assets/img/' | relative_url }}" alt="Site Icon" style="height: 1.2em; margin-right: 0.4em; vertical-align: middle;">
           {% endif %}
           {% if site.title == 'blank' %}
             {% if site.first_name %}
