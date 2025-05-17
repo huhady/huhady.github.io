@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I am excited to be joining Texas A&M, the Geography Department as an assistant professor in Fall 2025
+I am excited to join Texas A&M, the Geography Department as an assistant professor in Fall 2025
