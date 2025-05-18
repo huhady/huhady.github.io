@@ -6,4 +6,4 @@ inline: true
 related_posts: false
 ---
 
-I am hiring PhD Students to start Spring 2026 or Fall 2026. Please refer to the [Prospective students tab](prospective_students) for more information.
+I am hiring PhD Students to start Spring 2026 or Fall 2026. Please refer to the **[Prospective students tab](prospective_students)** for more information.
