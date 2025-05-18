@@ -7,7 +7,7 @@ subtitle: Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)
 
 profile:
   align: center
-  image: new_logo_4.png
+  image: logo_4_with_star.png
   image_circular: false # crops the image to make it circular
   more_info:
 
