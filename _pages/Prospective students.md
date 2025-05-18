@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /prospective students/
+permalink: /prospective_students/
 title: Prospective students
 description:
 nav: true
