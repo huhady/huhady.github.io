@@ -4,7 +4,7 @@ permalink: /people/
 title: Team
 description: Members of the lab
 nav: true
-nav_order: 7
+nav_order: 5
 
 profiles:
   # if you want to include more than one profile, just replicate the following block
@@ -13,7 +13,7 @@ profiles:
     image: prof_pic.jpg
     content: about_hazem.md
     image_circular: false # crops the image to make it circular
-    more_info: 
+    more_info: email huhady(at)tamu(dot)edu
   # - align: left
   #   image: prof_pic.jpg
   #   content: about_einstein.md
