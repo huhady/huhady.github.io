@@ -9,19 +9,19 @@ ninja.data = [{
     handler: () => {
       window.location.href = "/";
     },
-  },{id: "nav-publications",
-          title: "Publications",
-          description: "Selected papers published by memebers of the group",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/publications/";
-          },
-        },{id: "nav-projects",
+  },{id: "nav-projects",
           title: "Projects",
           description: "A growing collection of the lab&#39;s cool projects!!",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
+          },
+        },{id: "nav-publications",
+          title: "Publications",
+          description: "Selected papers published by memebers of the group",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/publications/";
           },
         },{id: "nav-teaching",
           title: "Teaching",
@@ -30,19 +30,19 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/teaching/";
           },
-        },{id: "nav-prospective-students",
-          title: "Prospective students",
-          description: "",
-          section: "Navigation",
-          handler: () => {
-            window.location.href = "/prospective_students/";
-          },
         },{id: "nav-team",
           title: "Team",
           description: "Members of the lab",
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
+          },
+        },{id: "nav-prospective-students",
+          title: "Prospective students",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/prospective_students/";
           },
         },{id: "news-i-am-excited-to-join-texas-a-amp-amp-m-the-geography-department-as-an-assistant-professor-in-fall-2025",
           title: 'I am excited to join Texas A&amp;amp;amp;M, the Geography Department as an assistant...',
