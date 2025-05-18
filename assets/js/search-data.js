@@ -35,7 +35,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/prospective%20students/";
+            window.location.href = "/prospective_students/";
           },
         },{id: "nav-team",
           title: "Team",
@@ -47,12 +47,10 @@ ninja.data = [{
         },{id: "news-i-am-excited-to-join-texas-a-amp-amp-m-the-geography-department-as-an-assistant-professor-in-fall-2025",
           title: 'I am excited to join Texas A&amp;amp;amp;M, the Geography Department as an assistant...',
           description: "",
-          section: "News",},{id: "news-i-am-hiring-phd-students-to-start-spring-2026-or-fall-2026",
-          title: 'I am hiring PhD Students to start Spring 2026 or Fall 2026',
+          section: "News",},{id: "news-i-am-hiring-phd-students-to-start-spring-2026-or-fall-2026-please-refer-to-the-prospective-students-tab-for-more-information",
+          title: 'I am hiring PhD Students to start Spring 2026 or Fall 2026. Please...',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2.html";
-            },},{id: "news-our-paper-about-the-amplification-of-extreme-temperatures-in-great-lakes-got-published-in-nature-s-communications-earth-and-environment-check-it-here",
+          section: "News",},{id: "news-our-paper-about-the-amplification-of-extreme-temperatures-in-great-lakes-got-published-in-nature-s-communications-earth-and-environment-check-it-here",
           title: 'Our paper about the amplification of extreme temperatures in Great Lakes got published...',
           description: "",
           section: "News",},{id: "projects-shoreline-changes-quantifcation-using-satellite-images",
