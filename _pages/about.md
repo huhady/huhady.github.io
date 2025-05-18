@@ -35,6 +35,6 @@ Led by **Dr. Hazem Abdelhady**, the lab integrates **physics-based hydrodynamic 
 
 By combining observational data with advanced numerical and AI-driven approaches, the Aggie CIS Lab bridges disciplines to address urgent environmental challenges at the intersection of **climate, water, and coasts**.
 
-If you're interested in joining the lab, please check the following **[Prospective students tab](prospective_students)** for more information.
+If you're interested in joining the lab, please check the **[Prospective students tab](prospective_students)** for more information.
 
 
