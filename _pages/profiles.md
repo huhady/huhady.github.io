@@ -13,10 +13,7 @@ profiles:
     image: prof_pic.jpg
     content: about_hazem.md
     image_circular: false # crops the image to make it circular
-    more_info: >
-        <p>DANA 2541</p>
-        <p>440 Church Street</p>
-        <p>Ann Arbor, Michigan, USA 48109</p>
+    more_info: 
   # - align: left
   #   image: prof_pic.jpg
   #   content: about_einstein.md
