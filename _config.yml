@@ -8,7 +8,7 @@ middle_name: U.
 last_name: Abdelhady
 contact_note:
 description: Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)
-footer_text: Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)
+footer_text: Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS). The <a href="https://github.com/alshedivat/al-folio">al-folio</a> template was used for the website.
 keywords: Coastal process, Deep learning, Hydrodynmaic # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: wave.svg # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
