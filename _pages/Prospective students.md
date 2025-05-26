@@ -24,8 +24,8 @@ Depending on your background and interests, projects may focus on topics such as
 Applicants should hold an M.S. in one of the following or closely related fields prior to starting the Ph.D.:
 - Physical geography  
 - Oceanography  
-- Coastal and ocean Engineering
-- Environmental and water resources Engineering  
+- Coastal and ocean engineering
+- Environmental and water resources engineering  
 - Earth system science  
 
 Highly motivated students without an M.S. but with strong undergraduate research experience are also encouraged to apply.
