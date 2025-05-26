@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)
+subtitle: 
 
 
 profile:
@@ -24,14 +24,14 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-
-Directed by Dr. Hazem Abdelhady, Geography Department, Texas A&M University
+**Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)**
+**Directed by Dr. [Dr. Hazem Abdelhady](/people/), Geography Department, Texas A&M University**
 
 
 
 Launching in **Fall 2025** in the **Geography Department at Texas A&M University**, the **Aggie CIS Lab** investigates coastal and nearshore processes in both lake and ocean environments. Our work focuses on **shoreline change**, **erosion**, **waves**, **ice**, and **water level dynamics** under the influence of nature hazards, extreme events, and climate variability.
 
-Led by **Dr. Hazem Abdelhady**, the lab integrates **physics-based hydrodynamic modeling**, **remote sensing**, and **machine learning** to better understand how coastal systems evolve and to develop tools that support **resilience and adaptation planning** for vulnerable communities.
+The lab integrates **physics-based hydrodynamic modeling**, **remote sensing**, and **machine learning** to better understand how coastal systems evolve and to develop tools that support **resilience and adaptation planning** for vulnerable communities.
 
 By combining observational data with advanced numerical and AI-driven approaches, the Aggie CIS Lab bridges disciplines to address urgent environmental challenges at the intersection of **climate, water, and coasts**.
 
