@@ -25,7 +25,7 @@ announcements:
 #   limit: 3 # leave blank to include all the blog posts
 ---
 **Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)**<br>
-**Directed by Dr. [Dr. Hazem Abdelhady](/people/), Geography Department, Texas A&M University**<br>
+**Directed by [Dr. Hazem Abdelhady](/people/), Geography Department, Texas A&M University**<br>
 
 
 
