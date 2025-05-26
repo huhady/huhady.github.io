@@ -24,8 +24,8 @@ announcements:
 #   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
 #   limit: 3 # leave blank to include all the blog posts
 ---
-**Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)**
-**Directed by Dr. [Dr. Hazem Abdelhady](/people/), Geography Department, Texas A&M University**
+**Aggie Coastal Intelligence & Sustainability Lab (Aggie CIS)**<br>
+**Directed by Dr. [Dr. Hazem Abdelhady](/people/), Geography Department, Texas A&M University**<br>
 
 
 
