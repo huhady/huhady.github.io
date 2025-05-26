@@ -29,7 +29,7 @@ announcements:
 
 
 
-Launching in **Fall 2025** in the **Geography Department at Texas A&M University**, the **Aggie CIS Lab** investigates coastal and nearshore processes in both lake and ocean environments. Our work focuses on **shoreline change**, **erosion**, **waves**, **ice**, and **water level dynamics** under the influence of nature hazards, extreme events, and climate variability.
+Launching in **Fall 2025** in the **Geography Department at Texas A&M University**, the **Aggie CIS Lab** investigates coastal and nearshore processes in both lake and ocean environments. Our research examines shoreline change, coastal erosion, wave dynamics, and the thermal structure of water bodies under the influence of natural hazards, extreme events, and climate variability.
 
 The lab integrates **physics-based hydrodynamic modeling**, **remote sensing**, and **machine learning** to better understand how coastal systems evolve and to develop tools that support **resilience and adaptation planning** for vulnerable communities.
 
