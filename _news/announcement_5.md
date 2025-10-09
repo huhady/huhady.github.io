@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Cassandra Huneau Joined Aggie CIS as a PhD Student. Welcome Cassandra!
+Cassandra Huneau joined Aggie CIS as a PhD Student. Welcome Cassandra!
