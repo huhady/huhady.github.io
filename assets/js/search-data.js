@@ -57,7 +57,7 @@ ninja.data = [{
           title: 'A new paper about the spatiotemporal dynamics of heatwaves and cold-spells in the...',
           description: "",
           section: "News",},{id: "news-cassandra-huneau-joined-aggie-cis-as-a-phd-student-welcome-cassandra",
-          title: 'Cassandra Huneau Joined Aggie CIS as a PhD Student. Welcome Cassandra!',
+          title: 'Cassandra Huneau joined Aggie CIS as a PhD Student. Welcome Cassandra!',
           description: "",
           section: "News",},{id: "projects-shoreline-changes-quantifcation-using-satellite-images",
           title: 'Shoreline changes quantifcation using satellite images',
