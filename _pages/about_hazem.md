@@ -1,4 +1,4 @@
-**Hazem U. Abdelhady**<br>
+**Hazem U. Abdelhady (PI)**<br>
 *[Email](mailto:huhady@tamu.edu)*<br>
 
 Dr. Hazem Abdelhady is an Assistant Professor in the [Department of Geography at Texas A&M University](https://artsci.tamu.edu/geography/index.html), where he leads the **Aggie Coastal Intelligence & Sustainability (CIS) Lab**. His research integrates coastal and hydrodynamic modeling, remote sensing, and machine learning to advance the understanding and prediction of environmental changes in oceanic, lake, and coastal systems.
