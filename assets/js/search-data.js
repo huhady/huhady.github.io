@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "Teaching",
-          description: "Courses that I teach and potentially their materials",
+          description: "Courses that I teach at TAMU",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
@@ -36,6 +36,13 @@ ninja.data = [{
           section: "Navigation",
           handler: () => {
             window.location.href = "/people/";
+          },
+        },{id: "nav-prospective-students",
+          title: "Prospective students",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/prospective_students/";
           },
         },{id: "nav-prospective-students",
           title: "Prospective students",
