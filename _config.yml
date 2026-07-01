@@ -191,7 +191,6 @@ exclude:
   - _posts/
   - _pages/cv.md
   - _pages/repositories.md
-  - _pages/Prospective_students.md
   - _pages/dropdown.md
   - _pages/books.md
   - _projects/5_project.md
