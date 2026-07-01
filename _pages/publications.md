@@ -4,7 +4,7 @@ permalink: /publications/
 title: Publications
 description: Selected papers published by memebers of the group
 nav: true
-nav_order: 2
+nav_order: 3
 ---
 For a full list of publications, please check my **[google scholar](https://scholar.google.com/citations?user=UowM98QAAAAJ&hl=en)**.
 <!-- _pages/publications.md -->
