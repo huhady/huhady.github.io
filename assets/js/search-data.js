@@ -44,6 +44,13 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/prospective_students/";
           },
+        },{id: "nav-prospective-students",
+          title: "Prospective students",
+          description: "",
+          section: "Navigation",
+          handler: () => {
+            window.location.href = "/prospective_students/";
+          },
         },{id: "news-i-am-excited-to-join-texas-a-amp-amp-m-the-geography-department-as-an-assistant-professor-in-fall-2025",
           title: 'I am excited to join Texas A&amp;amp;amp;M, the Geography Department as an assistant...',
           description: "",
@@ -58,6 +65,9 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "news-cassandra-huneau-joined-aggie-cis-as-a-phd-student-welcome-cassandra",
           title: 'Cassandra Huneau joined Aggie CIS as a PhD Student. Welcome Cassandra!',
+          description: "",
+          section: "News",},{id: "news-aabeer-saha-and-md-tawhidur-rahaman-are-joining-aggie-cis-as-phd-students-in-fall-2026-welcome-aabeer-and-tawhid",
+          title: 'Aabeer Saha and Md. Tawhidur Rahaman are joining Aggie CIS as PhD Students...',
           description: "",
           section: "News",},{id: "projects-shoreline-changes-quantifcation-using-satellite-images",
           title: 'Shoreline changes quantifcation using satellite images',
