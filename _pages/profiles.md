@@ -24,8 +24,14 @@ profiles:
   #     <p>Your City, State 12345</p>
 
   - align: left
-    image: Chuneau.jpg
-    content: about_Cassandra.md
+    image: Aabeer.jpg
+    content: about_Aabeer.md
+    image_circular: false # crops the image to make it circular
+    more_info:
+    
+  - align: left
+    image: Tawhid.jpg
+    content: about_Tawhid.md
     image_circular: false # crops the image to make it circular
     more_info:
 ---
