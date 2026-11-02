@@ -40,4 +40,4 @@ If interested, please complete this **[Interest Form](https://docs.google.com/fo
 
 ### Master’s and Undergraduate Students
 
-If you are currently at Texas A&M—or planning to start in Fall 2025—and are interested in research opportunities in our lab, please fill out the **[Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSf4ECAG2mU-p3L0F3XjhruUpY4aVqkqEQr9krmEQfXMqddYRw/viewform?usp=header)** as well. Opportunities may be available for course credit, paid research assistantships, or summer internships. Prior experience is helpful but not required if you’re excited to learn and contribute.
+If you are currently at Texas A&M or planning to join and are interested in research opportunities in our lab, please fill out the **[Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSf4ECAG2mU-p3L0F3XjhruUpY4aVqkqEQr9krmEQfXMqddYRw/viewform?usp=header)** as well. Opportunities may be available for course credit, paid research assistantships, or summer internships. Prior experience is helpful but not required if you’re excited to learn and contribute.
