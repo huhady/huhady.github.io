@@ -11,7 +11,7 @@ nav_order: 6
 
 I am actively recruiting Ph.D. students to join my research group in the **Geography Department at Texas A&M University**. The lab focuses on **coastal and nearshore processes**—including coastal change, wave dynamics, and the impacts of natural hazards—through a combination of **physics-based modeling** and **data-driven (AI/ML) approaches**. We aim to improve modeling and understanding of coastal hazards and to develop resilience strategies for vulnerable coastal communities.
 
-If you are passionate about using computational tools to address pressing environmental and water resources challenges, I encourage you to apply by filling out **[this form](https://docs.google.com/forms/d/e/1FAIpQLSf4ECAG2mU-p3L0F3XjhruUpY4aVqkqEQr9krmEQfXMqddYRw/viewform?usp=publish-editor)**. All cadidates must sastify Texas A&M Graduate School and the Department of Geography requirements and shortlisted candidates will be asked to submit an offical application.
+If you are passionate about using computational tools to address pressing environmental and water resources challenges, I encourage you to apply by filling out **[this form](https://docs.google.com/forms/d/e/1FAIpQLSf4ECAG2mU-p3L0F3XjhruUpY4aVqkqEQr9krmEQfXMqddYRw/viewform?usp=header)**. All cadidates must sastify Texas A&M Graduate School and the Department of Geography requirements and shortlisted candidates will be asked to submit an offical application.
 
 ### Prospective Ph.D. Students
 
@@ -36,8 +36,8 @@ While not strictly required, applicants with background and experience in one or
 - Remote sensing or geospatial data analysis  
 - Programming in Python, MATLAB  
 
-If interested, please complete this **[Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSf4ECAG2mU-p3L0F3XjhruUpY4aVqkqEQr9krmEQfXMqddYRw/viewform?usp=publish-editor)** to register your information. I will review submissions and follow up if your background aligns with current or upcoming opportunities. All cadidates must sastify Texas A&M Graduate School and the Department of Geography requirements and shortlisted candidates will be asked to submit an offical application.
+If interested, please complete this **[Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSf4ECAG2mU-p3L0F3XjhruUpY4aVqkqEQr9krmEQfXMqddYRw/viewform?usp=header)** to register your information. I will review submissions and follow up if your background aligns with current or upcoming opportunities. All cadidates must sastify Texas A&M Graduate School and the Department of Geography requirements and shortlisted candidates will be asked to submit an offical application.
 
 ### Master’s and Undergraduate Students
 
-If you are currently at Texas A&M—or planning to start in Fall 2025—and are interested in research opportunities in our lab, please fill out the **[Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSf4ECAG2mU-p3L0F3XjhruUpY4aVqkqEQr9krmEQfXMqddYRw/viewform?usp=publish-editor)** as well. Opportunities may be available for course credit, paid research assistantships, or summer internships. Prior experience is helpful but not required if you’re excited to learn and contribute.
+If you are currently at Texas A&M—or planning to start in Fall 2025—and are interested in research opportunities in our lab, please fill out the **[Interest Form](https://docs.google.com/forms/d/e/1FAIpQLSf4ECAG2mU-p3L0F3XjhruUpY4aVqkqEQr9krmEQfXMqddYRw/viewform?usp=header)** as well. Opportunities may be available for course credit, paid research assistantships, or summer internships. Prior experience is helpful but not required if you’re excited to learn and contribute.
